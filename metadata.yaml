@@ -1,0 +1,44 @@
+_repo: The-Sonnets-of-Michael-Angelo-Buonarroti-and-Tommaso-Campanella--Now-for-the-First-Time-Trans__10314
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Symonds, John Addington
+    alias: Symonds, J. A. (John Addington)
+    birthdate: 1840
+    deathdate: 1893
+    gutenberg_agent_id: '1504'
+    url: http://www.gutenberg.org/2009/agents/1504
+    wikipedia: http://en.wikipedia.org/wiki/John_Addington_Symonds
+creator:
+  authors:
+  - agent_name: Michelangelo Buonarroti
+    alias: Buonarroti, Michelangelo
+    birthdate: 1475
+    deathdate: 1564
+    gutenberg_agent_id: '3463'
+    url: http://www.gutenberg.org/2009/agents/3463
+    wikipedia: http://en.wikipedia.org/wiki/Michelangelo
+  - agent_name: Campanella, Tommaso
+    birthdate: 1568
+    deathdate: 1639
+    gutenberg_agent_id: '1040'
+    url: http://www.gutenberg.org/2009/agents/1040
+    wikipedia: http://en.wikipedia.org/wiki/Tommaso_Campanella
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10314'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Campanella, Tommaso, 1568-1639 -- Translations into English'
+- !lcsh 'Italian poetry -- Translations into English'
+- !lcsh 'Michelangelo Buonarroti, 1475-1564 -- Translations into English'
+- GITenberg
+title: The Sonnets of Michael Angelo Buonarroti and Tommaso Campanella; Now for the
+  First Time Translated into Rhymed English
+url: http://www.gutenberg.org/ebooks/10314
